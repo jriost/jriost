@@ -14,9 +14,9 @@
 ---
 
 ### About
-<div align="center">
+
 Software Developer with a background in Telecommunications Engineering, specialized in backend development and systems integration. Experienced in designing and implementing scalable and secure RESTful APIs using Django REST Framework, Flask, Spring Boot, and .NET, as well as building asynchronous, event-driven architectures with Celery, RabbitMQ, and Redis to improve performance and decouple critical processes. Strong full-stack capabilities using React.js, Next.js, and TypeScript, delivering maintainable and high-performance user interfaces. Proven experience deploying containerized services with Docker on Linux and AWS environments, and automating CI/CD pipelines with GitHub Actions to accelerate delivery and ensure operational reliability. Has led and contributed to projects including an industrial management system with 15+ interconnected modules, an enterprise integration platform based on microservices and machine learning models for prediction, and a cardiovascular analysis solution developed with Flask and ML as part of a Data Science Hackathon (2023).
-</div>
+
 
 ```
 Backend    Python · Django · Flask · Spring Boot · .NET
